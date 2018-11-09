@@ -1,6 +1,6 @@
 # Vulnerable Environments Based on Docker
 
-Vulenv 是一个面向大众的开源漏洞测试环境，无需专业的 docker 知识，只需简单的执行两条命令即可构建、运行一个完整的漏洞测试环境镜像。
+Vulenv 是一个漏洞测试环境，无需专业的 docker 知识，只需简单的执行两条命令即可构建、运行一个完整的漏洞测试环境镜像。
 
 ## 用法
 
